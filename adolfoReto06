@@ -1,0 +1,7 @@
+print("sistema de calculos del restaurante billies")
+totalconsumido = float(input("ingresa el total consumido:"))
+personas = int(input("cuantas personas eran:"))
+propina = float(input("cuanta propina te dieron:"))
+total = totalconsumido + propina 
+pagoxpersona = total / personas
+print(f"cada persona tiene que pagar {pagoxpersona} varos")
