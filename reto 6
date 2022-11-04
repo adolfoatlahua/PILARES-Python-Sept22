@@ -1,0 +1,7 @@
+print("hola")
+print("este sistema te dice si un numero es par o inpar")
+numero = int(input("ingresa un numero"))
+if numero % 2:
+  print ("tu numero es par")
+else:
+  print("tu numero no es par")
