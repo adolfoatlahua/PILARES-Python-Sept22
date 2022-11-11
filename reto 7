@@ -1,0 +1,23 @@
+numero = input("dime un numero del uno al diez")
+if numero == "1":
+    print("1 elefante se columpiaba")
+elif numero == "2":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba")
+elif numero == "3":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba")
+elif numero == "4":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba")
+elif numero == "5":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba")
+elif numero == "6":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba 5 elefantes se columpiaba 6 elefantes se columpiaba")
+elif numero == "7":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba 5 elefantes se columpiaba 6 elefantes se columpiaba 7 elefantes se columpiaba")
+elif numero == "8":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba 5 elefantes se columpiaba 6 elefantes se columpiaba 7 elefantes se columpiaban 8 elefantes se columpiaban")
+elif numero == "9":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba 5 elefantes se columpiaba 6 elefantes se columpiaba 7 elefantes se columpiaban 8 elefantes se columpiaban 9 elefantes se columpiaba")
+elif numero == "10":
+    print("1 elefante se columpiaba 2 elefantes se columpiaba 3 elefantes se columpiaba 4 elefantes se columpiaba 5 elefantes se columpiaba 5 elefantes se columpiaba 6 elefantes se columpiaba 7 elefantes se columpiaban 8 elefantes se columpiaban 9 elefantes se columpiaban 10 elefantes se columpiaba")
+else:
+    print ("no es del 1 al 10")
